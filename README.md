@@ -19,3 +19,6 @@ WISH ME LUCK ;)
 so i will re-commit this md file, hopefully next time I will remember to add one cause typing out
 that i forgot is an waste of time, but I can't be getting used to bad practices so I have to punish myself.
 
+### The files have been added
+& It seems like them have been added as a file like I wanted.
+If files are added together I think that is the defualt behaviour of github to put them into a folder
