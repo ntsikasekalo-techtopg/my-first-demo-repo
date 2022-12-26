@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(230, 217, 196, 60);
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2, ol {
+    font-family: Courier New;
+}
+p {
+    font-family: Arial;
+    
+}
+mark {
+    background-color: chartreuse;
+}
+
+table, th, td {
+    font-family: Arial;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid green;
+    border-collapse: collapse;
+    align-items: center;
+}
+table {
+    width: 100%;    
+}
+th {
+    font-family: Courier New;
+    color: seagreen;
+}
+td {
+    padding-bottom:10px;
+}
+caption {
+    font-family: Arial;
+    color: seagreen;
+}
